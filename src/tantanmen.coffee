@@ -15,8 +15,5 @@
 #   sanemat[@<org>]
 
 module.exports = (robot) ->
-  robot.respond /hello/, (msg) ->
-    msg.reply "hello!"
-
-  robot.hear /orly/, ->
-    msg.send "yarly"
+  robot.hear /坦々麺/, (msg) ->
+    msg.reply '担々麺'
