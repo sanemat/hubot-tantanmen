@@ -1,18 +1,15 @@
 # Description
-#   A hubot script that does the things
-#
-# Configuration:
-#   LIST_OF_ENV_VARS_TO_SET
+#   A hubot script that fixes missing spell '担々麺'(tan-tan-men)
 #
 # Commands:
-#   hubot hello - <what the respond trigger does>
-#   orly - <what the hear trigger does>
+#   坦々麺
 #
 # Notes:
-#   <optional notes required for the script>
-#
+#   Alice> 坦々麺食べたい
+#   Hubot> 坦 -> 担 Alice: 坦々麺食べたい
+
 # Author:
-#   sanemat[@<org>]
+#   sanemat
 
 module.exports = (robot) ->
   robot.hear /坦々麺/, (msg) ->
