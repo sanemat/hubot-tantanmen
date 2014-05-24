@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-tantanmen.git"
+    "url": "git://github.com/sanemat/hubot-tantanmen.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-tantanmen/issues"
+    "url": "https://github.com/sanemat/hubot-tantanmen/issues"
   },
 
   "dependencies": {
