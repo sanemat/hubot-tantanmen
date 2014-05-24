@@ -1,6 +1,6 @@
 {
   "name": "hubot-tantanmen",
-  "description": "A hubot script that fixes missing spell 'tan-tan-men'",
+  "description": "A hubot script that fixes missing spell '担々麺'(tan-tan-men)",
   "version": "0.0.0",
   "author": "sanemat <o.gata.ken@gmail.com>",
   "license": "MIT",

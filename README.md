@@ -1,6 +1,6 @@
 # hubot-tantanmen
 
-A hubot script that does the things
+A hubot script that fixes missing spell '担々麺'(tan-tan-men)
 
 See [`src/tantanmen.coffee`](src/tantanmen.coffee) for full documentation.
 
@@ -19,6 +19,6 @@ Then add **hubot-tantanmen** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+Alice> 坦々麺食べたい
+Hubot> 坦 -> 担 Alice: 坦々麺食べたい
 ```
