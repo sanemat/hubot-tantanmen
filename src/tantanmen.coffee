@@ -16,4 +16,4 @@
 
 module.exports = (robot) ->
   robot.hear /坦々麺/, (msg) ->
-    msg.reply '担々麺'
+    msg.reply '担 -> 担'
