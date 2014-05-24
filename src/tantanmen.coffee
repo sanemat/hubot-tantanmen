@@ -13,4 +13,6 @@
 
 module.exports = (robot) ->
   robot.hear /坦々麺/, (msg) ->
-    msg.send '担 -> 担' + ' ' + msg.message.user.name + ': ' + msg.message.text
+    msg.send '坦 -> 担' + ' ' + msg.message.user.name + ': ' + msg.message.text
+  robot.hear /坦坦麺/, (msg) ->
+    msg.send '坦坦 -> 担担' + ' ' + msg.message.user.name + ': ' + msg.message.text
