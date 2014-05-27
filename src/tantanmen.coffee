@@ -1,8 +1,8 @@
 # Description
-#   A hubot script that fixes missing spell '担々麺'(tan-tan-men)
+#   Fixes misspelling '担々麺'(tan-tan-men)
 #
 # Commands:
-#   坦々麺
+#   If you post '坦々麺'(misspelled), then the hubot points out '担々麺' is valid
 #
 # Notes:
 #   Alice> 坦々麺食べたい
