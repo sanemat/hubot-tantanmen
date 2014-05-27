@@ -4,7 +4,7 @@
 [![Build Status](http://img.shields.io/travis/sanemat/hubot-tantanmen/master.svg?style=flat)](https://travis-ci.org/sanemat/hubot-tantanmen)
 [![Code Climate](http://img.shields.io/codeclimate/github/sanemat/hubot-tantanmen.svg?style=flat)](https://codeclimate.com/github/sanemat/hubot-tantanmen)
 
-A hubot script that fixes missing spell '担々麺'(tan-tan-men)
+Fixes misspelling '担々麺'(tan-tan-men)
 
 See [`src/tantanmen.coffee`](src/tantanmen.coffee) for full documentation.
 
